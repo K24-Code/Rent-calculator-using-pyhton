@@ -1,1 +1,1 @@
-# Rent-calculator-using-pyhton
+# Rent-calculator-using-python
